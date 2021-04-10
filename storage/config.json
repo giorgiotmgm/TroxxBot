@@ -1,0 +1,47 @@
+{
+    "client": {
+        "token": "ODMwMjQ0MzE4MzMzNzYzNjE1.YHD3Rg.F0OcyIQZPkr0w0s2nXaqCqXaI5M",
+        "prefix": ".",
+        "color": "#ffc708",
+        "owner": [
+            "248978768583065620", "686323700659781653"
+        ]
+    },
+    "server": {
+        "id": "638852842710630430",
+        "name": "Troxx Inc.",
+        "store": "troxx.dev",
+        "emote": "<:TroxxEmoji:830242642385567744>"
+    },
+    "channel": {
+        "welcome": "829534991812788325",
+        "changelog": "",
+        "logs": "830242912335036466",
+        "ticketlogs": "830243043528671292",
+        "tickets": "829490119497089025",
+        "bugs": "830243253814165555",
+		"movement": "",
+        "timezone": "",
+        "pending_suggestions": "",
+        "accepted_suggestions": "",
+        "denied_suggestions": ""
+    },
+    "category": {
+        "tickets": "829490024105508925"
+    },
+    "role": {
+        "member": "830243841617297428",
+        "muted": "830243763485409331",
+        "support": "",
+        "notify1": "",
+        "notify2": "",
+        "notify3": "",
+        "notify4": "",
+        "notify5": "",
+        "notify6": "",
+        "notify7": "",
+        "na": "",
+        "eu": "",
+        "au": ""
+    }
+}
